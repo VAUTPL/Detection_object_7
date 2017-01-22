@@ -33,7 +33,7 @@ From a command line in the folder of the repository:
 
 `$ python juego_detection.py
 
-Videos resolution should be 480x150
+Videos resolution should be 640x480
 
 ###On UNIX...
 You may add a shebang (`#!`) line to the top of [juego_detection.py](juego_detection.py) with the path to the appropriate Python. Example:
