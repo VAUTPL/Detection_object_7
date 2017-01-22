@@ -7,8 +7,7 @@
 # Students:                                 #
 # Jonathan Torres      jptorres6@utpl.edu.ec#
 #############################################
-#library to calculate distances to detected object
-
+#librarys
 import sys
 import pygame
 import random
