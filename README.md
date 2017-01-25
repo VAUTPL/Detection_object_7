@@ -31,7 +31,7 @@ Running
 -------
 From a command line in the folder of the repository:
 
-`$ python juego_detection.py
+`$ python juego_detection.py`
 
 Videos resolution should be 640x480
 
@@ -44,7 +44,7 @@ You may add a shebang (`#!`) line to the top of [juego_detection.py](juego_detec
 `$ chmod +x juego_detection.py`
 
 ####To Run:
-`$ ./juego_detection.py
+`$ ./juego_detection.py`
 
 If no video is specified, OpenCV attempts to open the Webcam, see line number 276:
 `captura = cv2.VideoCapture(1)`
